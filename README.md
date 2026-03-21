@@ -1,4 +1,4 @@
-<h1 align="center">Alice</h1>
+<h2>Alice</h1>
 
 <p>
  Sou estudante de Desenvolvimento de Sistemas pelo SENAI <br>
