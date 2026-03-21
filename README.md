@@ -1,7 +1,7 @@
-<h1 align="center"> welcome</h1>
+<h1 align="center">Alice</h1>
 
-<p align="center">
- Estudante de Desenvolvimento de Sistemas pelo SENAI <br>
+<p>
+ Sou estudante de Desenvolvimento de Sistemas pelo SENAI <br>
  Focada em desenvolvimento web
 </p>
 
