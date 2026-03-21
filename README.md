@@ -15,15 +15,6 @@ Estou em constante evolução, buscando aprender novas tecnologias e aprimorar m
 
  Em constante desenvolvimento
 
----
-
-##  Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alioliv&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Alioliv&theme=radical)
-
----
 
 ## Linguagens
 
