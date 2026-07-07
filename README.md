@@ -5,9 +5,6 @@
  Focada em desenvolvimento web
 </p>
 
-##  Sobre mim
-
-Estou em busca de aprender novas tecnologias e aprimorar minhas habilidades. Aqui compartilho minha trajetória de aprendizado, estudos e projetos na área.
 
 
 
