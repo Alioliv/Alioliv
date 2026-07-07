@@ -7,12 +7,6 @@
 
 
 
-
-## Linguagens
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alioliv&layout=compact&theme=radical)
-
-
 ##  Tecnologias
 
 <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,git,github" />
